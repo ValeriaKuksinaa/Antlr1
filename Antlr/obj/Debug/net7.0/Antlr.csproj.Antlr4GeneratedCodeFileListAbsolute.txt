@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Antlr\Antlr\obj\Debug\net7.0\SimpleLexer.cs
+C:\Users\User\Desktop\Antlr\Antlr\obj\Debug\net7.0\SimpleParser.cs
+C:\Users\User\Desktop\Antlr\Antlr\obj\Debug\net7.0\SimpleListener.cs
+C:\Users\User\Desktop\Antlr\Antlr\obj\Debug\net7.0\SimpleBaseListener.cs
+C:\Users\User\Desktop\Antlr\Antlr\obj\Debug\net7.0\SimpleVisitor.cs
+C:\Users\User\Desktop\Antlr\Antlr\obj\Debug\net7.0\SimpleBaseVisitor.cs
